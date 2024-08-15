@@ -1,0 +1,8 @@
+nome = input('Qual seu nome fella: ')
+sobrenome = input('digite seu sobrenome: ')
+idade = input('digite sua idade: ')
+nome2 = input('Digite outro nome: ')
+sobrenome2 = input('Digite o sobrenome desse fella: ')
+idade2 = input('digite a idade desse fella: ')
+print('Nome:',nome,sobrenome,'\nIdade:',idade)
+print('Nome:',nome2,sobrenome2,'\nIdade:',idade2)
